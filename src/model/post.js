@@ -16,13 +16,13 @@ module.exports = {
   },
 
   deletePost(id) {
-    const post = this.posts.filter((post) => post.id === id);
 
     const index = this.posts.findIndex((index) => index.id === id);
 
-    console.log(index);
-    console.log(this.posts.splice(index, 1));
-    return this.posts.slice(post.id, 1);
+    console.log({ index });
+
+    this.posts.splice(index, 1);
+
   },
 };
 function generateID() {
