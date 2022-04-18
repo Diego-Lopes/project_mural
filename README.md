@@ -11,9 +11,9 @@ Este projeto é feito com base do curso ***[ProgramadorBR](https://programadorbr
 
 ---
 Este projeto está implementado alguns metodos http,
- [x] POST
- [x] GET
- [] DELETE  
- [] UPDATE
+- [x] POST
+- [x] GET
+- [] DELETE  
+- [] UPDATE
  
 E também tem que fazer as tratativas de erro no front e no back.
