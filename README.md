@@ -3,7 +3,7 @@
 *Um projeto em nodejs com renderização de página estática.*
 
 ```bash
-  *Para iniciar o projeto
+  #Para iniciar o projeto
   npm install 
 ```
 
